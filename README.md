@@ -22,6 +22,10 @@ Download Oracle Database 19c for Linux x86-64 from the following link:
 
 Clone this repository and Copy the `.zip` file into the folder:
 ```
+git clone --branch feature/Adding_Oracle_Apex https://github.com/gamagecb/Oracle-Docker-Images.git
+```
+
+```
 Oracle-Docker-Images\OracleDatabase\SingleInstance\dockerfiles\19.3.0\
 ```
 
